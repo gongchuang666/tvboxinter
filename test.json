@@ -1,10 +1,11 @@
 [
   {
-    "name": "我的专属动漫源",  // TVBox显示的名称，可自定义
-    "type": "cartoon",        // 固定值，动漫类型必须填cartoon
-    "url": "https://jiexi.071811.cc/jx.php?url=https://cncsps.com/vodtype/4.html",  // 步骤1.3的解析链接
-    "searchable": true,       // 开启搜索功能
-    "quickSearch": true,      // 开启快速搜索
-    "filterable": true        // 开启筛选功能
+    "name": "我的专属动漫源",  
+    "type": "cartoon",        
+    "url": "https://jiexi.071811.cc/jx.php?url=https://cncsps.com/vodtype/4.html",  
+    "searchable": true,      
+    "quickSearch": true,     
+    "filterable": true       
   }
+
 ]
